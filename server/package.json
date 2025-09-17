@@ -1,0 +1,11 @@
+{
+  "name": "todo-server",
+  "version": "1.0.0",
+  "description": "Simple in-memory todo API",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node node_modules/jest/bin/jest.js"
+  }
+}
